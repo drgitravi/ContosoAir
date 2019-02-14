@@ -1,5 +1,5 @@
 
-[![Build Status](https://dev.azure.com/ravive/ravive/_apis/build/status/drgitravi.ContosoAir?branchName=master)](https://dev.azure.com/ravive/ravive/_build/latest?definitionId=1&branchName=master)
+Helo World
 
 # Microsoft.Github CI Demo
 
